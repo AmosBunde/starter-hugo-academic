@@ -6,12 +6,12 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Senior Data/DataOps Engineer
+role: Senior Data/DataOps/MlOps Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Copia Global
-    url: https://www.stanford.edu/
+    url: https://copiaglobal.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
